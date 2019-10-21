@@ -8,8 +8,6 @@ import org.springframework.core.env.Environment;
 
 import com.mongodb.MongoClientOptions;
 
-//for embedded mongo
-
 @Configuration
 public class ToDoConfig extends MongoAutoConfiguration {
 
